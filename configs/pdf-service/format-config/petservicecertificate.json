@@ -70,8 +70,6 @@
         "style": "subheader",
         "margin": [0, 0, 0, 1]
       },
-
-
       {
         "text": "Pet's Type: {{Pet_Type}}",
         "style": "subheader",
